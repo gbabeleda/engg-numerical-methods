@@ -1,5 +1,5 @@
 # numerical-methods-engineering
----
+
 This repository is for me to refresh my knowledge on the numerical methods for engineering. Ive taken a subject covering this previously in my Masters Degree, but I cannot find my past materials, or remember how to do the methods. 
 
 Additionally, I cannot really remember if we covered what are the applications of these methods. 
@@ -11,9 +11,7 @@ Im the kind of person who learns the best by seeing the overall context that eac
 - using that python code in specific applications in fields that I am interested in like Data Science, Materials Engineering, and Energy Engineering 
 
 # Outline
----
 ## Roots of Single Equations
----
 ### Methods
 - Bisection Method
 - Newton-Raphson Method
@@ -30,7 +28,6 @@ Im the kind of person who learns the best by seeing the overall context that eac
 - Electric Engineering
 
 ## Systems of Linear Equations
----
 ### Methods
 - Gaussian Elimination
 - LU Decomposition
@@ -45,7 +42,6 @@ Im the kind of person who learns the best by seeing the overall context that eac
 - Operations Research
 
 ## Systems of Non-Linear Equations
----
 ### Methods
 - Newtons Method for Systems
 - Broydens Method
@@ -57,7 +53,6 @@ Im the kind of person who learns the best by seeing the overall context that eac
 - Environmental Engineering
 
 ## Ordinary Difrferential Equations
----
 ### Methods
 - Eulers Method
 - Runge-Kutta Methods
@@ -73,7 +68,6 @@ Im the kind of person who learns the best by seeing the overall context that eac
 - Electrical Circuits
 
 ## Partial Differential Equations
----
 ### Methods
 - Finite Difference Methods
 - Finite Volume Methods
@@ -92,7 +86,6 @@ Im the kind of person who learns the best by seeing the overall context that eac
 
 
 ## Others
----
 ### Methods
 - Conjugate Gradient Method
 - Simplex Method
