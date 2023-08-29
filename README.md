@@ -1,6 +1,13 @@
 # numerical-methods-engineering
 
-This repository is for me to refresh my knowledge on the numerical methods for engineering. Ive taken a subject covering this previously in my Masters Degree, but I cannot find my past materials, or remember how to do the methods. 
+I have already taken a course in this during my masters degree, but I lost the course material and the files I wrote. I remember getting decent grades in it however. 
+
+This repository will explore that subject again, and I will create scripts that can solve 
+
+
+
+
+
 
 Additionally, I cannot really remember if we covered what are the applications of these methods. 
 
