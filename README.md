@@ -1,21 +1,15 @@
 # numerical-methods-engineering
 
-I have already taken a course in this during my masters degree, but I lost the course material and the files I wrote. I remember getting decent grades in it however. 
+This repository will cover my attempts at solving numerical methods in engineering problems using python and jupyter notebooks.
 
-This repository will explore that subject again, and I will create scripts that can solve 
+The goal is to create scripts that allow us to solve problems using the specific methods in question. 
 
+I have previously taken a course in numerical methods in my masters degree, ES 204, but no longer recall the lessons and dont have any of my solutions. 
 
+This repository will be my attempt to rectify that. The structure will be based on the syllabus of ES 204. 
 
+When possible, solutions to real world engineering problems will be attempted
 
-
-
-Additionally, I cannot really remember if we covered what are the applications of these methods. 
-
-Im the kind of person who learns the best by seeing the overall context that each method is used, so this repository will contain the following:
-
-- An explanation of the field, the methods, and how the methods work
-- python code that use these methods to solve problems
-- using that python code in specific applications in fields that I am interested in like Data Science, Materials Engineering, and Energy Engineering 
 
 # Outline
 ## Roots of Single Equations
@@ -90,7 +84,6 @@ Im the kind of person who learns the best by seeing the overall context that eac
 - Electromagnetic Fields
 - Solid MEchanics
 - Acoustics
-
 
 ## Others
 ### Methods
